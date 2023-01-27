@@ -4,4 +4,11 @@ ForenSick Is A Basic Digital Forensics Tool For Users Who May Not Be Familiar Wi
 
 # Installing ForenSick
 #### git clone https://github.com/psycolulz/ForenSick
+
+### The Following Packages Need To Be Installed For The Tool To Function Properly
+#### figlet
+#### exiftool
+#### binwalk
+#### strings 
+#### hexdump 
  
